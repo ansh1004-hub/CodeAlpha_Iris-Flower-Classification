@@ -1,5 +1,7 @@
 # CodeAlpha_Iris-Flower-Classification
 
+<img width="1024" height="367" alt="68747470733a2f2f7777772e656d6265646465642d726f626f746963732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30312f497269732d446174617365742d436c617373696669636174696f6e2" src="https://github.com/user-attachments/assets/f5209b78-8558-43ae-b756-3678522d0a5b" />
+
 This project demonstrates the process of classifying Iris flowers into their three species using machine learning algorithms. The analysis is performed within a Jupyter Notebook.
 
 ### Introduction 
