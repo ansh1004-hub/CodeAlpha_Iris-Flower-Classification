@@ -7,6 +7,7 @@ The objective of this project is to create a model that can accurately classify 
 
 Dataset : 
 The dataset used is iris.data.csv. It contains 150 instances of Iris flowers, with each of the three classes having 50 instances. There are five columns in the dataset: sepal_length, sepal_width, petal_length, petal_width, and the target species.
+Link For DataSet : https://www.kaggle.com/datasets/saurabh00007/iriscsv
 
 Project Workflow : 
 The notebook follows a standard machine learning workflow:
